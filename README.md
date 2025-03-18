@@ -1,7 +1,5 @@
 # Customised-Virtual-File-System-CVFS-.
-Project Name:     	Customised Virtual File System (CVFS).
-Technology :		C++  programming
-Description : 
+
       -In this project we emulate all data structures which are used by the operating system to            manage File system oriented tasks.
       -As the name suggests it's virtual because we maintain all records in Primary storage.
       -In this project we create all data structures which are required for File Subsystems as             Inode Inode Table, File Table, UAREA, User File Descriptor Table, Super block, Disk Inode,          List Block, Data Block, Boot Block etc.
